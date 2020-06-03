@@ -1,4 +1,4 @@
-# Test [![GoDoc](http://godoc.org/github.com/tdewolff/test?status.svg)](http://godoc.org/github.com/tdewolff/test)
+# Test [![GoDoc](http://godoc.org/github.com/dtrenin7/test?status.svg)](http://godoc.org/github.com/dtrenin7/test)
 
 Test is a helper package written in [Go][1]. It implements a few functions that are useful for io testing, such as readers and writers that fail after N consecutive reads/writes.
 

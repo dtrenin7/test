@@ -1,3 +1,3 @@
-module github.com/tdewolff/test
+module github.com/dtrenin7/test
 
 go 1.12
